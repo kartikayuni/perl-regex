@@ -1,0 +1,3 @@
+[    1.234567] usb 1-1: new high-speed USB device number 2
+[   12.542134] EXT4-fs (sda1): mounted filesystem
+[   45.332100] wlan0: authenticated
